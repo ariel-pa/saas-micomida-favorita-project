@@ -29,3 +29,11 @@ npm run start
 ⏳ Se implementó un ejemplo funcional de loading states para indicar al usuario cuando una acción está en proceso, como el envío de formularios.
 
 # Screenshots de la aplicación
+
+![Inicio de sesión](https://github.com/ariel-pa/saas-micomida-favorita-project/blob/7670f5a68e8a83531f7ad7d5d6d637dd1f9aaba3/assets/img/img1.jpg)
+
+![Registro de credenciales](https://github.com/ariel-pa/saas-micomida-favorita-project/blob/7670f5a68e8a83531f7ad7d5d6d637dd1f9aaba3/assets/img/img2.jpg)
+
+![Registro de mi perfil](https://github.com/ariel-pa/saas-micomida-favorita-project/blob/7670f5a68e8a83531f7ad7d5d6d637dd1f9aaba3/assets/img/img3.jpg)
+
+![Mi perfil con datos de firebase](https://github.com/ariel-pa/saas-micomida-favorita-project/blob/7670f5a68e8a83531f7ad7d5d6d637dd1f9aaba3/assets/img/img4.jpg)
