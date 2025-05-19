@@ -2,7 +2,7 @@
 Ejercicio Univalle Posgrado
 
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/ariel-pa/saas-micomida-favorita-project
 
 # 2. Entra en el directorio del proyecto
 cd saas-micomida-favorita-project
